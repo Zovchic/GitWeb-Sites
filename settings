@@ -1,6 +1,0 @@
-Blacklist:
-  - settings
-  - README.md
-  
-  
-suffix: ".web"
