@@ -13,7 +13,8 @@ This is a textbased browser, that supports pages with Color & Styling codes base
 3.  Add text to the file following "Website Formatting".
 4.  Save the file.
 5.  Make a PR request.
-*Wait to get denied or excepted*
+
+*Wait to get denied or accepted*
 
 
 
