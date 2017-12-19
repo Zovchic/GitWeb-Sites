@@ -1,3 +1,0 @@
-var btn = new Button("Online Data!!!", 5, 100, 50, 15);
-
-app.addComponent(btn);
