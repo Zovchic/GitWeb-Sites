@@ -4,6 +4,12 @@ Hello World
 
 Welcome to the §aGitWeb!
 
-Here are some useful sites on Gitweb
-- &w["Markdown"]
-- &w["Community-Sites"]
+This §aGitWeb§r is a bunch of text sites, that get loaded from addresses into this browser
+and have some nice colorcodes too.
+
+We will eventually have some community links right here:
+- Here
+- Here
+- And here!!
+
+Thanks for using this service.
