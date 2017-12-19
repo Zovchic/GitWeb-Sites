@@ -1,0 +1,3 @@
+var btn = new Button("Click me!", 5, 5, 50, 15);
+
+app.addComponent(btn);
