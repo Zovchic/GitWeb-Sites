@@ -5,6 +5,6 @@ This internet is purly textbased and is limited du to textareas in the Device AP
 
 
 
-# Website Creation Tutorial
+# Website Creation and Formatting Tutorial
 *comming soon*
-(if you can figure out how to create one, then PR it in and we might accept it.)
+- Don't use CAPS ever in website names, just so ya know. Only letters, numbers and - character
