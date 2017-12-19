@@ -7,14 +7,13 @@ This is a textbased browser, that supports pages with Color & Styling codes base
 
 
 # Website Creation Tutorial
-1.  Fork the repo and create a new file in your chosen suffix (e.g .web).
+1.  Fork the repo and create a new file inside your chosen suffix directory (e.g .web).
 2.  Name this file what you want to call your website.
     - for steps 1 and 2 please follow "Website Identification and Naming Rules".
 3.  Add text to the file following "Website Formatting".
-    - don't make a single line to long or it will get cut off.
-
-
-
+4.  Save the file.
+5.  Make a PR request.
+*Wait to get denied or excepted*
 
 
 
