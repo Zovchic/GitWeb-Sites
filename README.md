@@ -25,32 +25,32 @@ This is a textbased browser, that supports pages with Color & Styling codes base
 
 # Website Formatting
 **Color & Styling codes**
-§0	Black
-§1	Dark Blue
-§2	Dark Green	
-§3	Dark Aqua	
-§4	Dark Red	
-§5	Dark Purple	
-§6	Gold
-§7	Gray
-§8	Dark Gray
-§9	Blue
-§a	Green
-§b	Aqua
-§c	Red
-§d	Light Purple
-§e	Yellow
-§f	White
-§k	Obfuscated (this may not work)
-§l	Bold
-§m	Strikethrough
-§n	Underline
-§o	Italic
-§r	Reset	Styling
+ - §0	Black
+ - §1	Dark Blue
+ - §2	Dark Green	
+ - §3	Dark Aqua	
+ - §4	Dark Red	
+ - §5	Dark Purple	
+ - §6	Gold
+ - §7	Gray
+ - §8	Dark Gray
+ - §9	Blue
+ - §a	Green
+ - §b	Aqua
+ - §c	Red
+ - §d	Light Purple
+ - §e	Yellow
+ - §f	White
+ - §k	Obfuscated (this may not work)
+ - §l	Bold
+ - §m	Strikethrough
+ - §n	Underline
+ - §o	Italic
+ - §r	Reset	Styling
 *Styling is removed when going to the next line.*
 
 **Comments**
-Lines starting with '#' should be ignored when loading into the browser (this is still slightly broken).
+Lines starting with '#' should be ignored when loading into the browser (this may not work).
 
 **Hyperlinks**
 *Not currently supported but will be in the future*
