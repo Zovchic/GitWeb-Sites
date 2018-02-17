@@ -47,7 +47,8 @@ This is a textbased browser, that supports pages with Color & Styling codes base
  - §m	Strikethrough
  - §n	Underline
  - §o	Italic
- - §r	Reset	Styling
+ - §r	Reset Styling
+ 
 *Styling is removed when going to the next line.*
 
 **Comments**
