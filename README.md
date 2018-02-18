@@ -55,6 +55,12 @@ This is a textbased browser, that supports pages with Color & Styling codes base
 **Comments**
 Lines starting with '#' should be ignored when loading into the browser (this may not work).
 
+**Redirects**
+You can create GitWeb sites that redirect other sites.
+
+  - Put 'redirect>address<'(or 'masked_redirect>address<') on the first line of the text file.
+  *only compatible with GitWeb address' pastebin not supported*
+
 **Hyperlinks**
 *Not currently supported but will be in the future*
 
