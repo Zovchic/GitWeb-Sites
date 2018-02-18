@@ -3,22 +3,26 @@ Everything about Minecraft Pickaxes!
 Pickaxes can destroy Stone and Ore blocks faster
 than using fists or other tools.
 
-§c§lWooden Pickaxe
- + 33 Uses and 1 Heart of Damage.
- + Wooden Pickaxes can break Stone and Coal Ore blocks.
+§d§l*Vanilla Minecraft*
 
-§7§lStone Pickaxe
- + 65 Uses and 1.5 Hearts of Damage.
- + Stone Pickaxes can break Stone, Coal Ore and Iron Ore blocks.
+  §c§lWooden Pickaxe
+   + 33 Uses and 1 Heart of Damage.
+   + Wooden Pickaxes can break Stone and Coal Ore blocks.
 
-§lIron Pickaxe
- + 129 Uses and 2 Hearts of Damage.
- + Iron Pickaxes can break all applicable block types except Obsidian.
+  §7§lStone Pickaxe
+   + 65 Uses and 1.5 Hearts of Damage.
+   + Stone Pickaxes can break Stone, Coal Ore and Iron Ore blocks.
 
-§e§lGold Pickaxe
- + 33 Uses and 1 Heart of Damage.
- + Gold Pickaxes can break Stone and Coal Ore blocks.
+  §lIron Pickaxe
+   + 129 Uses and 2 Hearts of Damage.
+   + Iron Pickaxes can break all applicable block types except Obsidian.
 
-§b§lDiamond Pickaxe
- + 1025 Uses and 2.5 Hearts of Damage.
- + Diamond Pickaxes can break all applicable block types.
+  §e§lGold Pickaxe
+   + 33 Uses and 1 Heart of Damage.
+   + Gold Pickaxes can break Stone and Coal Ore blocks.
+
+  §b§lDiamond Pickaxe
+   + 1025 Uses and 2.5 Hearts of Damage.
+   + Diamond Pickaxes can break all applicable block types.
+
+§d§l*Modded Minecraft*
