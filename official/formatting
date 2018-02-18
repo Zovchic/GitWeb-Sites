@@ -1,25 +1,25 @@
 This page displays all the color
-& styling codes in action.
+Section mark styling codes in action.
 
-§0	Black
-§1	Dark Blue
-§2	Dark Green
-§3	Dark Aqua
-§4	Dark Red
-§5	Dark Purple
-§6	Gold
-§7	Gray
-§8	Dark Gray
-§9	Blue
-§a	Green
-§b	Aqua
-§c	Red
-§d	Light Purple
-§e	Yellow
-§f	White
-§k	Obfuscated
-§l	Bold
-§m	Strikethrough
-§n	Underline
-§o	Italic
-§r	Reset	Styling
+§00	Black
+§11	Dark Blue
+§22	Dark Green
+§33	Dark Aqua
+§44	Dark Red
+§55	Dark Purple
+§66	Gold
+§77	Gray
+§88	Dark Gray
+§99	Blue
+§aa	Green
+§bb	Aqua
+§cc	Red
+§dd	Light Purple
+§ee	Yellow
+§ff	White
+§kk	Obfuscated
+§ll	Bold
+§mm	Strikethrough
+§nn	Underline
+§oo	Italic
+§rr	Reset	Styling
