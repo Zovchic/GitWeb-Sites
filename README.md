@@ -21,6 +21,7 @@ This is a textbased browser, that supports pages with Color & Styling codes base
 # Website Identification and Naming Rules
 - We will not accept websites that don't follow a lowercase, numbers and dash character format.
 - We not accept websites attempting to use the .error or .official suffixes.
+- You can not put -sub anywhere in your websites name.
 
 
 
